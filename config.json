@@ -1,0 +1,7 @@
+{
+  "mongodb_username": "mahmoudAdmin",
+  "mongodb_password": "odin97_NH7",
+  "mongodb_cluster": "cluster0",
+  "database_name": "clevelandArt",
+  "collection_name": "miniExhibition"
+}
